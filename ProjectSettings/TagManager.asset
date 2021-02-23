@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Chicken
+  - Corn
+  - Portal1
+  - Portal2
+  - Portal3
+  - Portal4
+  - CloudFish
+  - Portal5
+  - Portal6
+  - PortalRest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1806608273
+    locked: 0
+  - name: Platform
+    uniqueID: 1338568991
+    locked: 0
+  - name: Chicken
+    uniqueID: 3613405257
+    locked: 0
+  - name: Corn
+    uniqueID: 386239079
+    locked: 0
+  - name: Portal
+    uniqueID: 1702452661
+    locked: 0
+  - name: Menu
+    uniqueID: 3049066759
+    locked: 0
+  - name: Controls
+    uniqueID: 1132781733
+    locked: 0
